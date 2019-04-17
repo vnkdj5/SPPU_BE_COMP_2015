@@ -6,7 +6,7 @@ Age,Income,Gender,MaritialStatus,Buys
 >35,Low,Female,Single,Yes
 >35,Low,Female,Married,No
 21-35,Low,Female,Married,Yes
-<21,Medium,Female,Single,No
+<21,Medium,Male,Single,No
 <21,Low,Female,Married,Yes
 >35,Medium,Female,Single,Yes
 <21,Medium,Female,Married,Yes
