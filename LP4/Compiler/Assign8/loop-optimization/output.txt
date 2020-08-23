@@ -1,0 +1,5 @@
+t1 = x[n]*10
+
+for(i=0;i<10;i++) {
+    array[i] = (array[i])-(t1);
+}
